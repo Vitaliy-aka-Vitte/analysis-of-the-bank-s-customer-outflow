@@ -1,4 +1,3 @@
-# analysis-of-the-bank-s-customer-outflow
 # Проект: Банки — Анализ оттока клиентов
 
 **Цель проекта :**
